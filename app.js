@@ -19,5 +19,4 @@ function fn3() {
     var arr1 = [Number(n1), Number(n2), Number(n3)];
     arr1.sort();
     document.write(arr1);
-    return arr1;
 }
